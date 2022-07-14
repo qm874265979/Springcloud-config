@@ -1,2 +1,2 @@
-server:
-  port: test
+config:
+  info: 1235
